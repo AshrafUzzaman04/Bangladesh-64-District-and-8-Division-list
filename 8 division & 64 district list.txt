@@ -1,0 +1,81 @@
+----- 8 Division && 64 District list----- (Bangladesh)
+
+1. Barisal
+	a. Pirojpur
+	b. Jhalakati
+	c. Barishal
+	d. Bhola
+	e. Patuakhali
+	f. Barguna
+
+2. Chattogram
+	a. Brahmanbaria
+	b. Cumilla
+	c. Chandpur
+	d. Lakshmipur
+	e. Noakhali	
+	f. Feni
+	g. Chattogram
+	h. Cox’s Bazar
+	i. Khagrachhari
+	j. Rangamati
+	k. Bandarban
+
+3. Dhaka
+	a. Tangail
+	b. Kishoreganj
+	c. Manikganj
+	d. Dhaka
+	e. Gazipur
+	f. Narsinghdi
+	g. Narayanganj
+	h. Munshiganj
+	i. Faridpur
+	j. Rajbari
+	k. Gopalganj
+	l. Madaripur
+	m. Shariatpur
+
+4. Khulna
+	a. Kushtia
+	b. Meherpur
+	c. Chuadanga
+	d. Jhenaidah
+	e. Magura
+	f. Narail
+	g. Jashore
+	h. Satkhira
+	i. Khulna
+	j. Bagerhat
+
+5. Mymensingh
+	a. Netrokona
+	b. Mymensingh
+	c. Sherpur
+	d. Jamalpur
+
+6. Rajshahi
+	a. Joypurhat
+	b. Bogura
+	c. Naogaon
+	d. Natore
+	e. Nawabganj
+	f. Rajshahi
+	g. Sirajganj
+	h. Pabna
+
+7. Rangpur
+	a. Panchagar
+	b. Thakurgaon
+	c. Dinajpur
+	d. Nilphamari
+	e. Lalmonirhat
+	f. Rangpur
+	g. Kurigram
+	h. Gaibandha
+
+8. Sylhet
+	a. Sunamganj
+	b. Sylhet
+	c. Moulvibazar
+	d. Habiganj
